@@ -27,3 +27,5 @@ other solvers in Logistic Regression:
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 u can see the accuracy is around 96%. u can also give the program ur 30 attributes and it will predict if its cancerous or not.
+
+contact me if u have any question or suggestion via my email; Hajiahmadiparisa@yahoo.com

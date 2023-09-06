@@ -1,15 +1,14 @@
 # Breast-Cancer-Prediction
 Using Machine Learning/ Logistic Regression
 
-<h1 align="center">Hi 👋, I'm Parisa Haji Ahmadi</h1>
-<h3 align="center">A Math enthusiast from Iran.</h3>
+Hi; I'm Parisa Haji Ahmadi; A Math enthusiast.
 
 - 🌱 I’m currently learning **Machine Learning and Data Science.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeepTheAspidistraFlying](https://github.com/KeepTheAspidistraFlying)
 
 - 📝 I regularly write articles on [Machine Learning algorithms and their applications.]
-  
+
 - 📫 How to reach me **Hajiahmadiparisa@yahoo.com**
 
 <h3 align="left">Languages and Tools:</h3>
